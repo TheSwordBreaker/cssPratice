@@ -90,9 +90,9 @@ span::after {
 .featured-img {
   position: absolute;
   right: 0;
-  bottom: 0;
+  bottom: 15%;
   width: 50%;
-  max-width: 680px;
+  max-width: 600px;
 }
 
 .search-img {
